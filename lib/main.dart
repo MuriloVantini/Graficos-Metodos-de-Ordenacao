@@ -54,11 +54,11 @@ class _MyHomePageState extends State<MyHomePage> {
   ];
   List<ChartDataColumnModel> chartData100mm = [
     ChartDataColumnModel(duration: const Duration(hours: 4, minutes: 22, seconds: 48), method: 'Bubble'),
-    ChartDataColumnModel(duration: const Duration(hours: 1, minutes: 5, seconds: 17), method: 'Inserção'),
+    ChartDataColumnModel(duration: const Duration(hours: 1, minutes: 27, seconds: 40, milliseconds: 189), method: 'Inserção'),
     ChartDataColumnModel(duration: const Duration(minutes: 44, seconds: 23, milliseconds: 873), method: 'Seleção'),
-    ChartDataColumnModel(duration: const Duration(milliseconds: 107), method: 'Contagem'),
-    ChartDataColumnModel(duration: const Duration(seconds: 1, milliseconds: 042), method: 'Shell'),
-    ChartDataColumnModel(duration: const Duration(minutes: 6, seconds: 26, milliseconds: 385), method: 'Quicksort'),
+    ChartDataColumnModel(duration: const Duration(milliseconds: 132), method: 'Contagem'),
+    ChartDataColumnModel(duration: const Duration(seconds: 1, milliseconds: 063), method: 'Shell'),
+    ChartDataColumnModel(duration: const Duration(minutes: 53, seconds: 10, milliseconds: 019), method: 'Quicksort'),
   ];
   @override
   void initState() {
